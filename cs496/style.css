@@ -1,0 +1,12 @@
+* {margin: 0; padding: 0;}
+body {background: #B3C0C0;}
+
+#wrapper {width: 1022px;
+		  margin: 0 auto;
+		  background: #FFF;
+		  font-size: 1.5em;
+}
+
+label.error {color: red; display: block; padding-bottom: 10px; }
+
+
